@@ -19,15 +19,15 @@ I'm a passionate software engineer who loves learning and exploring new technolo
 
 ## 📌 Featured Projects
 
-### 🎴 [Tarot Reading Web App](https://github.com/sttanminh/tarot-app)
+### 🎴 [Tarot Reading Web App](https://demotarotreader.netlify.app/)
 
 Experimented with LLM and serverless architecture by building a Tarot reading web app within a day.
 
-### 📊 [Emotion Monitor Trello Power-up](https://github.com/sttanminh/emotionmonitor-trello)
+### 📊 [Emotion Monitor Trello Power-up]([https://github.com/sttanminh/emotionmonitor-trello](https://github.com/sttanminh/emotionmonitor-dashboard))
 
 Developed a Trello integration that analyzes team emotions using AI.
 
-### 📧 [Automated Email Reporting with Laravel Filament](https://github.com/sttanminh/email-automation)
+### 📧 [Automated Email Reporting with Laravel Filament]([https://github.com/sttanminh/email-automation](https://github.com/sttanminh/CustomerManagementAndEmailAutomantion))
 
 Built an automated email system with job queue management and Google OAuth authentication.
 
