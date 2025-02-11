@@ -23,11 +23,11 @@ I'm a passionate software engineer who loves learning and exploring new technolo
 
 Experimented with LLM and serverless architecture by building a Tarot reading web app within a day.
 
-### 📊 [Emotion Monitor Trello Power-up](https://github.com/sttanminh/emotionmonitor-trello](https://github.com/sttanminh/emotionmonitor-dashboard))
+### 📊 [Emotion Monitor Trello Power-up](https://github.com/sttanminh/emotionmonitor-trello)
 
 Developed a Trello integration that analyzes team emotions using AI.
 
-### 📧 [Automated Email Reporting with Laravel Filament](https://github.com/sttanminh/email-automation](https://github.com/sttanminh/CustomerManagementAndEmailAutomantion))
+### 📧 [Automated Email Reporting with Laravel Filament](https://github.com/sttanminh/CustomerManagementAndEmailAutomantion)
 
 Built an automated email system with job queue management and Google OAuth authentication.
 
